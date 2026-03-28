@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/md-hasan-monsur-banner.png" alt="GitHub Banner showcasing a professional profile" width="100%">
+</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Static Badge](https://img.shields.io/badge/Oracle-Database-brightgreen?logo=oracle)
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+  </picture>
+</div>
