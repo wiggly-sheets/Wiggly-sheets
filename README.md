@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Wiggly-sheets's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=wiggly-sheets&showicons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Wiggly-sheets's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=wiggly-sheets&showreviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width="356" height="213" alt="image" src="https://github.com/user-attachments/assets/e5dcd3ca-920c-4312-9834-51bd72bca0de" />
