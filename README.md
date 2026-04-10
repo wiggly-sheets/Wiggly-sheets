@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <img width="356" height="213" alt="image" src="https://github.com/user-attachments/assets/e5dcd3ca-920c-4312-9834-51bd72bca0de" />
 
-[![Wiggly-sheets's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiggly-sheets icons=true&theme=tokyonight)
+[![Wiggly-sheets's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=wiggly-sheets icons=true&theme=tokyonight)
 
