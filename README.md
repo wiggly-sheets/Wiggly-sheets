@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7aa2f7,50:bb9af7,100:7dcfff&text=wiggly-sheets&fontSize=52&fontColor=1a1b26&fontAlignY=34&desc=macOS%20utilities%20%C2%B7%20yabai%20%26%20SketchyBar%20%C2%B7%20dotfiles&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="wiggly-sheets" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:7aa2f7,50:bb9af7,100:7dcfff&text=wiggly-sheets&fontSize=46&fontColor=1a1b26&fontAlignY=36&desc=macOS%20utilities%20%C2%B7%20yabai%20%C2%B7%20SketchyBar%20%C2%B7%20dotfiles&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="wiggly-sheets — macOS utilities, yabai, SketchyBar, dotfiles" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=45&lines=if+the+OS+won%27t+do+it%2C+I+will;native+macOS+utilities+%C2%B7+Swift+%2B+SwiftUI;yabai+%C2%B7+skhd+%C2%B7+SketchyBar+%C2%B7+dotfiles;vibing" alt="typing" />
 
